@@ -1,0 +1,94 @@
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_thompson") -- must be the name of your swep but NO CAPITALS!
+SWEP.DrawAmmo				= true		-- Should draw the default HL2 ammo counter
+SWEP.DrawWeaponInfoBox			= false		-- Should draw the weapon info box
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_intervention") -- must be the name of your swep but NO CAPITALS!
+SWEP.Author				= "iron angles and models hexed and converted to gmod my Mr Fokkusu"
+SWEP.Contact				= ""
+SWEP.Purpose				= ""
+SWEP.Instructions				= ""
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_m24") -- must be the name of your swep but NO CAPITALS!
+SWEP.Author				= "iron angles and models hexed and converted to gmod my Mr Fokkusu"
+SWEP.Contact				= ""
+SWEP.Purpose				= ""
+SWEP.Instructions				= ""
+SWEP.MuzzleAttachment			= "1" 	-- Should be "1" for CSS models or "muzzle" for hl2 models
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_colt1911") -- must be the name of your swep but NO CAPITALS!
+SWEP.Author				= "iron angles and models hexed and converted to gmod my Mr Fokkusu"
+SWEP.Contact				= ""
+SWEP.Purpose				= ""
+SWEP.Instructions				= ""
+SWEP.MuzzleAttachment			= "1" 	-- Should be "1" for CSS models or "muzzle" for hl2 models
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_uzi") -- must be the name of your swep but NO CAPITALS!
+SWEP.DrawAmmo				= true		-- Should draw the default HL2 ammo counter
+SWEP.DrawWeaponInfoBox			= false		-- Should draw the weapon info box
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_m16a4_acog") -- must be the name of your swep but NO CAPITALS!
+SWEP.Author				= "iron angles and models hexed and converted to gmod my Mr Fokkusu"
+SWEP.Contact				= ""
+SWEP.Purpose				= ""
+SWEP.Instructions				= ""
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_winchester73") -- must be the name of your swep but NO CAPITALS!
+SWEP.SlotPos				= 41			-- Position in the slot
+SWEP.DrawAmmo				= true		-- Should draw the default HL2 ammo counter
+SWEP.DrawWeaponInfoBox			= false		-- Should draw the weapon info box
+
+
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_uzi") -- must be the name of your swep but NO CAPITALS!
+SWEP.DrawAmmo				= true		-- Should draw the default HL2 ammo counter
+SWEP.DrawWeaponInfoBox			= false		-- Should draw the weapon info box
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_winchester73") -- must be the name of your swep but NO CAPITALS!
+SWEP.SlotPos				= 41			-- Position in the slot
+SWEP.DrawAmmo				= true		-- Should draw the default HL2 ammo counter
+SWEP.DrawWeaponInfoBox			= false		-- Should draw the weapon info box
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_m24") -- must be the name of your swep but NO CAPITALS!
+SWEP.Author				= "iron angles and models hexed and converted to gmod my Mr Fokkusu"
+SWEP.Contact				= ""
+SWEP.Purpose				= ""
+SWEP.Instructions				= ""
+SWEP.MuzzleAttachment			= "1" 	-- Should be "1" for CSS models or "muzzle" for hl2 models
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_intervention") -- must be the name of your swep but NO CAPITALS!
+SWEP.Author				= "iron angles and models hexed and converted to gmod my Mr Fokkusu"
+SWEP.Contact				= ""
+SWEP.Purpose				= ""
+SWEP.Instructions				= ""
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_thompson") -- must be the name of your swep but NO CAPITALS!
+SWEP.DrawAmmo				= true		-- Should draw the default HL2 ammo counter
+SWEP.DrawWeaponInfoBox			= false		-- Should draw the weapon info box
+
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_colt1911") -- must be the name of your swep but NO CAPITALS!
+SWEP.Author				= "iron angles and models hexed and converted to gmod my Mr Fokkusu"
+SWEP.Contact				= ""
+SWEP.Purpose				= ""
+SWEP.Instructions				= ""
+SWEP.MuzzleAttachment			= "1" 	-- Should be "1" for CSS models or "muzzle" for hl2 models
+
+-- Variables that are used on both client and server
+SWEP.Gun = ("m9k_m16a4_acog") -- must be the name of your swep but NO CAPITALS!
+SWEP.Author				= "iron angles and models hexed and converted to gmod my Mr Fokkusu"
+SWEP.Contact				= ""
+SWEP.Purpose				= ""
+SWEP.Instructions				= ""
